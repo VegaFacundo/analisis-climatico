@@ -1,0 +1,4 @@
+Temperatura promedio: 0.434
+Temperatura máxima: 1.922
+Temperatura mínima: -0.381
+Promedio precipitaciones: 1158.775
