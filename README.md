@@ -1,4 +1,3 @@
-
 # Análisis Climático Histórico
 
 ## Integrantes del equipo
@@ -77,6 +76,12 @@ Ingresar al proyecto:
 
 ```bash
 cd analisis-climatico
+```
+
+El proyecto requiere Python 3.x y las siguientes librerías:
+
+```bash
+pip install pandas matplotlib
 ```
 
 Ejecutar análisis:
